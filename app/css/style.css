@@ -1,0 +1,12 @@
+body {
+  background-image: url("https://i.postimg.cc/pd53B8Cf/avenger-bg.jpg");
+  background-size: cover;
+}
+
+#canvas {
+  background: #fff;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+/*# sourceMappingURL=style.css.map */
